@@ -1,0 +1,4 @@
+- name: リポジトリの更新
+  apt:
+    update_cache: True
+
